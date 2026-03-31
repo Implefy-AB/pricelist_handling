@@ -1,6 +1,6 @@
 {
     'name': 'Pricelist Handling',
-    'version': '19.0.1.0.0',
+    'version': '19.0.1.0.1',
     'depends': ['website_sale'],
     'data': [
         'security/ir.model.access.csv',
